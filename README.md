@@ -6,37 +6,48 @@
 
 <p align="center">
   <strong>Smart Agriculture Assistant</strong><br>
-  Powered by AI to revolutionize modern farming. Built by <b>Team TensorFlow</b>.
+  Built by <b>Team TensorFlow</b>
 </p>
 
 ---
 
-## 🤖 What is PlantCare AI?
+## 🌱 Overview
 
-**PlantCare AI** is an intelligent mobile application developed with Flutter that helps farmers and agricultural workers make data-driven decisions. By integrating AI features such as crop recommendations, weather forecasts, and smart analysis, PlantCare AI brings digital transformation to the farming field.
+**PlantCare AI** is a smart gardening app designed specifically for **urban and rooftop gardeners in Bangladesh**. It combines **subscription-based AI-powered crop management** with:
+
+- Personalized plant care routines  
+- Real-time **disease detection using AI**
+- Weather-aware growth tracking and smart alerts  
+- Expert gardening recommendations  
+- A vibrant community to ask questions, share tips, and trade items
+
+Users can **track individual plants**, get **timely alerts** based on **growth stages**, access **AI assistance 24/7**, and even shop through an integrated marketplace.
+
+Whether you're a beginner or an experienced grower, **PlantCare AI** empowers you to grow healthier plants, reduce losses, and enjoy the art of gardening — confidently and intelligently.
 
 ---
 
-## 🚀 Key Features
+## ✨ Key Features
 
-- 🧠 **AI-driven insights** for crop care and growth
-- 📅 **Weather forecasting** for smart farming decisions
-- 🌾 **Farming tips** and best practices
-- 📷 (Upcoming) Image-based plant health detection
-- 🔤 Localized UI for farmer-friendly experience
-- 🌐 Smooth cross-platform performance (Android & iOS)
+- 🧠 AI-driven plant health and crop care insights
+- 📷 Real-time disease detection (image-based)
+- 📦 Integrated gardening product shop
+- 🔄 Smart notifications based on growth and local weather
+- 👨‍🌾 Community support & item exchange
+- 🕒 24/7 AI assistant for instant guidance
+- 🌐 Localized support for Bangladesh context
 
 ---
 
-## 🔧 Installation
+## 🚀 Getting Started
 
 ### ✅ Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- Android Studio / VS Code
-- Device or Emulator
+- Android Studio or Visual Studio Code
+- Connected emulator or physical device
 
-### 📥 Setup
+### 🛠 Installation
 
 ```bash
 git clone https://github.com/prodhan2/krisanBD.git
