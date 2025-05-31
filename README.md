@@ -1,54 +1,42 @@
 <p align="center">
-  <img src="https://i.postimg.cc/ncpKhz0c/Chat-GPT-Image-May-31-2025-12-33-17-PM-removebg-preview.png" alt="Krisan Logo" width="180"/>
+  <img src="https://i.postimg.cc/ncpKhz0c/Chat-GPT-Image-May-31-2025-12-33-17-PM-removebg-preview.png" alt="PlantCare AI Logo" width="180"/>
 </p>
 
-<h1 align="center">Krisan 🌾</h1>
+<h1 align="center">PlantCare AI 🌿</h1>
 
 <p align="center">
-  <strong>AI-Powered Agricultural Assistant</strong><br>
-  Helping farmers and agri-enthusiasts make smarter decisions with artificial intelligence.
+  <strong>Smart Agriculture Assistant</strong><br>
+  Powered by AI to revolutionize modern farming. Built by <b>Team TensorFlow</b>.
 </p>
 
 ---
 
-## 🤖 What is Krisan?
+## 🤖 What is PlantCare AI?
 
-**Krisan** is a modern Flutter-based AI application designed to empower the agricultural sector. It provides intelligent solutions and insights for crop management, farming tips, weather forecasting, and more — all in one intuitive mobile app.
-
----
-
-## ✨ Key Features
-
-- 🌱 **AI-driven recommendations** for crops and farming practices  
-- ☁️ Real-time **weather forecasting**
-- 🧠 Smart analysis based on user input
-- 📊 Interactive dashboards and visualizations
-- 📷 Image-based query support (coming soon)
-- 🧑‍🌾 Farmer-friendly UI with localized language support
+**PlantCare AI** is an intelligent mobile application developed with Flutter that helps farmers and agricultural workers make data-driven decisions. By integrating AI features such as crop recommendations, weather forecasts, and smart analysis, PlantCare AI brings digital transformation to the farming field.
 
 ---
 
-## 📸 Screenshots
+## 🚀 Key Features
 
-| | | |
-|:--:|:--:|:--:|
-| ![s1](https://i.postimg.cc/5txV28DN/image.png) | ![s2](https://i.postimg.cc/4dck8w9P/image.png) | ![s3](https://i.postimg.cc/gJH4kZFd/image.png) |
-| ![s4](https://i.postimg.cc/HW33qX99/image.png) | ![s5](https://i.postimg.cc/85NB3zFY/image.png) | ![s6](https://i.postimg.cc/nhm4hDB5/image.png) |
-| ![s7](https://i.postimg.cc/KcsB7N5w/image.png) | ![s8](https://i.postimg.cc/Znr9hr1F/image.png) |  |
+- 🧠 **AI-driven insights** for crop care and growth
+- 📅 **Weather forecasting** for smart farming decisions
+- 🌾 **Farming tips** and best practices
+- 📷 (Upcoming) Image-based plant health detection
+- 🔤 Localized UI for farmer-friendly experience
+- 🌐 Smooth cross-platform performance (Android & iOS)
 
 ---
 
-## 🚀 Getting Started
+## 🔧 Installation
 
 ### ✅ Prerequisites
 
-- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
-- IDE: VS Code / Android Studio
-- Device/Emulator for testing
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio / VS Code
+- Device or Emulator
 
----
-
-### 🔧 Installation
+### 📥 Setup
 
 ```bash
 git clone https://github.com/prodhan2/krisanBD.git
